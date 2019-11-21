@@ -1,0 +1,8 @@
+D:\HuntTheWumpus\HuntTheWumpusTests\bin\Debug\HuntTheWumpusTests.dll
+D:\HuntTheWumpus\HuntTheWumpusTests\bin\Debug\HuntTheWumpusTests.pdb
+D:\HuntTheWumpus\HuntTheWumpusTests\bin\Debug\HuntTheWumpus.exe
+D:\HuntTheWumpus\HuntTheWumpusTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\HuntTheWumpus\HuntTheWumpusTests\bin\Debug\HuntTheWumpus.pdb
+D:\HuntTheWumpus\HuntTheWumpusTests\obj\Debug\HuntTheWumpusTests.csprojResolveAssemblyReference.cache
+D:\HuntTheWumpus\HuntTheWumpusTests\obj\Debug\HuntTheWumpusTests.dll
+D:\HuntTheWumpus\HuntTheWumpusTests\obj\Debug\HuntTheWumpusTests.pdb
